@@ -18,7 +18,7 @@ winner
 end
 
 
-def happy_birthday
+def happy_birthday(birthday_kids)
 birthday_kids = {
   "Timmy" => 9,
   "Sarah" => 6,
