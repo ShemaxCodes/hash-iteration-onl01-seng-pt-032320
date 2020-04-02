@@ -18,4 +18,3 @@ winner
 end
 
 
-def happy_birthda
